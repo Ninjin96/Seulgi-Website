@@ -161,7 +161,7 @@ p {
 }
 
 .gifs {
-  max-width: 620px;
+  max-width: 100%;
   height: 400px;
 }
 
